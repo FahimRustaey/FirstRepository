@@ -2,13 +2,8 @@ package com.test;
 
 public class Test {
 	
-	//just putting a comment
-	//this is the second line
-	//another line added to check the sec
-	//Now changes at july 30
+	//just putting a comment can you see it now?
+	//this is the second line let me know
 	
-	public class main{
-		//new method
-	}
 
 }
